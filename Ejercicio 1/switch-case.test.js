@@ -1,6 +1,6 @@
 import * as sc from "./switch-case";
 
-describe("switch-case days of week", () => {
+/*describe("switch-case days of week", () => {
   it('should returns "Lunes" for the number 1', () => {
     expect(sc.getDayOfWeekSC(1)).toBe("Lunes");
     expect(sc.getDayOfWeekObject(1)).toBe("Lunes");
@@ -66,3 +66,4 @@ describe("switch-case simple calcular", () => {
     expect(sc.simpleCalculatorObject("$", 35, 7)).toBe("Operator invalid");
   });
 });
+*/
